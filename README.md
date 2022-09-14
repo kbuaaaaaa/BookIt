@@ -3,6 +3,7 @@ A room booking system developed during Covid-19 time. BookIt that works like a d
  
 BookIt allows user to book a rooom at start / end date and time. The user can change or delete the booking.  After booking, the QR Code will be shown to the user, and can be scanned to access the room. If the QR Code is not exactly for the correct place/date/time, the access will be denied.
 
+BookIT is developed using Python with ZODB on a RaspberryPi3
 # Screenshots
 <img width="302" alt="" src="https://user-images.githubusercontent.com/72684195/190187643-4e28f594-329f-4e2b-8324-9cb252453052.png">
 <img width="302" alt="" src="https://user-images.githubusercontent.com/72684195/190187691-b2c8769a-4f1e-4f73-a80f-9f3617d868cf.png">
